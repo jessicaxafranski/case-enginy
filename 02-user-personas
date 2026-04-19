@@ -1,0 +1,60 @@
+## 2. User Research & Personas
+
+This section summarizes the research context, main user groups, and their needs and frustrations.
+
+---
+
+### Research Context
+
+This case study is informed by product analysis, industry patterns in outbound sales tools, and observed user behavior when interacting with intent signals in platforms such as Enginy, Apollo, and similar solutions.
+
+The analysis highlights a recurring challenge: although signals and rankings are available, users still struggle to convert them into meaningful outreach actions.
+
+Common patterns observed include:
+
+- signals being ignored or underutilized  
+- delays between signal detection and outreach  
+- reliance on manual decision-making  
+- low confidence in signal relevance  
+
+These insights point to a gap between **signal visibility and actionability**.
+
+---
+
+### Primary Users
+
+Sales Development Representatives (SDRs) and outbound sales professionals:
+
+- responsible for generating pipeline  
+- working under time pressure  
+- managing high volumes of leads and signals  
+- expected to act quickly on opportunities  
+
+These users need to quickly identify **who to contact, why, and how**, without spending excessive time analyzing signals.
+
+---
+
+### Secondary Users
+
+Sales Managers and Revenue leaders:
+
+- responsible for team performance and pipeline growth  
+- need visibility into outreach effectiveness  
+- rely on consistent and scalable processes  
+
+When signals are not effectively used, it impacts team efficiency, conversion rates, and overall revenue performance.
+
+---
+
+### User Segments, Needs, and Frustrations
+
+The outbound workflow affects different users in distinct ways. The table below summarizes the main user segments, their needs, and their key frustrations when working with signals.
+
+| User Type                      | Needs                                                                 | Frustrations                                                                                  |
+| ------------------------------ | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| **SDRs (Junior)**              | Clear guidance on who to contact and what to say                      | Overwhelmed by signals, unsure how to act, high cognitive load                                |
+| **SDRs (Experienced)**         | Speed, efficiency, high-quality opportunities                         | Too much manual filtering, repetitive decision-making, time lost analyzing signals           |
+| **Sales Managers**             | Visibility into team performance, scalable outbound processes         | Inconsistent usage of signals, lack of control over decision-making, unclear impact on pipeline |
+| **Revenue Leaders (VP/Head)**  | Predictable pipeline growth, efficient use of tools                   | Low ROI from sales tools, signals not translating into measurable outcomes                    |
+| **Growth / RevOps Teams**      | Data-driven insights, optimization of outreach strategies             | Lack of clear attribution between signals and results, fragmented workflows                  |
+| **Founders (Early-stage)**     | Fast pipeline generation with limited resources                       | Limited time, need quick wins, difficulty prioritizing opportunities                          |
