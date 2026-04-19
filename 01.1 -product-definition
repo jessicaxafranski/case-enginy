@@ -1,0 +1,118 @@
+## 3. Product Definition
+
+This section defines the product vision, value proposition, and key features of the Signal Activation Layer.
+
+---
+
+### Product Vision
+
+To transform intent signals into clear, actionable opportunities that drive outbound conversion.
+
+The goal is to reduce the time, uncertainty, and cognitive effort required to move from signal detection to outreach execution.
+
+---
+
+### Product Description
+
+The Signal Activation Layer is a product capability built on top of Enginy’s existing signal detection and ranking system.
+
+Instead of presenting raw signals, the system transforms each signal into a structured opportunity by adding:
+
+- context explaining why the signal matters  
+- recommended actions  
+- campaign-ready messaging  
+
+This allows users to move from **signal → campaign** in a fast and consistent way.
+
+---
+
+### Core Value Proposition
+
+The product helps sales teams increase outbound conversion by making signals immediately actionable.
+
+Instead of manually interpreting signals and creating campaigns, users receive guided opportunities that are ready to be executed.
+
+---
+
+### Main Product Features
+
+- Signal context generation ("Why this matters")  
+- Suggested action (who to contact and how to approach)  
+- Contact/persona mapping  
+- Lightweight message generation (template-based)  
+- One-click campaign creation and launch  
+- Signal prioritization (Act now / Review / Ignore)  
+- Signal-to-campaign tracking  
+
+---
+
+### How the Product Solves the User Problem
+
+The product reduces friction and improves conversion through several mechanisms:
+
+---
+
+#### 1. Adds context to signals
+
+Signals are enriched with explanations that clarify their relevance.
+
+- connects signals to business events  
+- reduces ambiguity  
+- increases trust  
+
+---
+
+#### 2. Reduces decision-making effort
+
+Users no longer need to interpret signals manually.
+
+- provides clear next steps  
+- reduces cognitive load  
+- speeds up execution  
+
+---
+
+#### 3. Improves prioritization
+
+Signals are categorized based on relevance and urgency.
+
+- Act now / Review / Ignore  
+- helps users focus on high-impact opportunities  
+
+---
+
+#### 4. Enables faster outreach
+
+The system reduces time from signal to action.
+
+- campaign-ready messages  
+- one-click execution  
+- minimal setup  
+
+---
+
+#### 5. Increases consistency across teams
+
+Standardizes how signals are used across SDRs.
+
+- reduces reliance on intuition  
+- improves repeatability  
+- increases overall team performance  
+
+---
+
+#### 6. Drives higher conversion
+
+By reducing friction and improving timing, the system:
+
+- increases signal-to-campaign rate  
+- improves reply rates  
+- contributes to pipeline generation  
+
+---
+
+### Product Principle
+
+The product focuses on **making signals actionable before automating them**.
+
+Rather than introducing full automation immediately, the system builds trust and consistency first, creating a strong foundation for future signal-triggered campaigns.
