@@ -1,0 +1,118 @@
+## 8. Prioritization Framework
+
+This section outlines how features are prioritized to maximize impact on conversion while minimizing implementation complexity.
+
+---
+
+### 8.1 Prioritization Approach
+
+Features are prioritized using an **Impact vs Effort framework**, with a strong focus on improving outbound conversion.
+
+- **Impact**: Expected effect on signal-to-campaign conversion, reply rate, and meetings booked  
+- **Effort**: Engineering complexity, data dependencies, and time to implement  
+
+The goal is to prioritize features that **reduce the gap between signal detection and action** as quickly as possible.
+
+---
+
+### 8.2 Feature Prioritization
+
+| Feature | Impact | Effort | Priority | Rationale |
+|--------|--------|--------|----------|-----------|
+| Signal context ("Why this matters") | High | Low | P0 | Directly reduces confusion and increases trust in signals |
+| Suggested action | High | Medium | P0 | Removes decision friction and accelerates execution |
+| Message generation (template-based) | High | Medium | P0 | Enables immediate campaign creation |
+| One-click campaign launch | High | Low | P0 | Eliminates friction between decision and execution |
+| Signal-to-campaign tracking | Medium | Low | P1 | Enables measurement and future optimization |
+| Persona/contact mapping | Medium | Medium | P1 | Improves targeting and response quality |
+| Signal prioritization (Act now / Review / Ignore) | Medium | Low | P1 | Helps users focus on high-impact opportunities |
+| Advanced personalization (AI) | Medium | High | P2 | Improves quality but not critical for MVP validation |
+| Full automation (auto-send campaigns) | High | High | P2 | Requires trust, accuracy, and system maturity |
+
+---
+
+### 8.3 Key Trade-offs
+
+---
+
+#### Trade-off 1: Speed vs Accuracy
+
+- **Decision**: Start with simple, explainable logic instead of complex AI  
+- **Why**: Faster implementation and higher user trust  
+- **Risk**: Lower personalization quality  
+- **Mitigation**: Iterate based on performance data  
+
+---
+
+#### Trade-off 2: Human-in-the-loop vs Automation
+
+- **Decision**: Keep users in control of campaign approval in MVP  
+- **Why**: Signals and AI outputs are not yet fully reliable  
+- **Risk**: Slower execution compared to full automation  
+- **Mitigation**: Gradually introduce automation as trust increases  
+
+---
+
+#### Trade-off 3: Breadth vs Focus
+
+- **Decision**: Focus on a limited set of high-quality signals and actions  
+- **Why**: Quality drives trust and adoption  
+- **Risk**: Limited coverage of opportunities  
+- **Mitigation**: Expand signal types after validation  
+
+---
+
+#### Trade-off 4: Flexibility vs Simplicity
+
+- **Decision**: Provide opinionated workflows instead of high customization  
+- **Why**: Reduces cognitive load and speeds up onboarding  
+- **Risk**: Less flexibility for advanced users  
+- **Mitigation**: Add customization in later phases  
+
+---
+
+### 8.4 Strategy: Human-in-the-Loop → Automation
+
+The product follows a staged approach to automation.
+
+---
+
+#### Phase 1: Human-in-the-loop (MVP)
+
+- AI suggests actions and messages  
+- Users review and approve campaigns  
+- Focus on building trust and consistency  
+
+---
+
+#### Phase 2: Assisted Automation
+
+- Auto-suggestions become more accurate  
+- Users rely less on manual edits  
+- Partial automation introduced (e.g., pre-approved campaigns)  
+
+---
+
+#### Phase 3: Full Automation
+
+- Campaigns triggered automatically based on signals  
+- Minimal user intervention required  
+- Focus on scaling outbound execution  
+
+---
+
+### 8.5 Prioritization Insight
+
+The MVP prioritizes features that:
+
+- reduce decision-making friction  
+- increase speed to action  
+- directly impact conversion  
+
+Rather than building advanced AI or automation early, the focus is on **making signals actionable first**.
+
+This approach ensures that future automation is built on a foundation of:
+
+- trust  
+- validated behavior  
+- measurable impact  
